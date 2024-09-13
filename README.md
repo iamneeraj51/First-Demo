@@ -1,4 +1,4 @@
 # First-Demo
-This is my first Git Repository
+This is my first Git Repository.
 <br>
-Author- Neeraj Bairwa
+Author~ Neeraj Bairwa
